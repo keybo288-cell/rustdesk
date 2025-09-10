@@ -1,3 +1,0 @@
-[submodule "libs/hbb_common"]
-	path = libs/hbb_common
-	url = https://github.com/keybo288-cell/hbb_common    #子模块仓库地址
