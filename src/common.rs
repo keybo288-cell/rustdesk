@@ -1024,9 +1024,9 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "https://al.keybo.xyz:21114".to_owned()
+    "http://http://39.97.42.82:21114".to_owned()
 }
-
+#修改上面的API地址
 #[inline]
 pub fn is_public(url: &str) -> bool {
     url.contains("rustdesk.com")
